@@ -14,7 +14,7 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 ## Stakeholders
 
-## Stakeholder Interviewed: Ananya Gupta
+**Stakeholder Interviewed: Ananya Gupta**
 
 <ins>Goals:</ins>
 - Discover events across different categories (art, food, concerts, etc.)
@@ -26,7 +26,7 @@ See instructions. Delete this line and replace with a list of the names of your 
 - Missing out on an event that you later see online becuase of lack of information or discovery too late
 - Confusion caused by using multiple platforms to find and book events 
 
-## Stakeholder Interviewed: Jamie Antelo
+**Stakeholder Interviewed: Jamie Antelo**
 
 <ins>Goals:</ins>
 -  Real-time updates about how many spots or tickets are left before an event sells out, can see how popular an event is
