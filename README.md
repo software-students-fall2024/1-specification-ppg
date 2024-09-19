@@ -44,7 +44,26 @@ Our app allows users to easily discover, book, and manage events happening aroun
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+1. As a **social event enthusiast**, I want **to discover events happening near me** so that **I can find new and exciting activities to attend.** 
+
+2. As a **busy professional,** I want **to filter events by date and category** so that **I can easily find events that fit my schedule and interests.**
+
+3. As a **frequent event-goer,** I want **to see real-time availability for tickets or spots** so that **I can know if there’s still room for me to attend.**
+
+4. As an **excited event goer,** I want **to receive notifications about upcoming events** so that **I don’t miss events I’m interested in.** 
+
+5. As a **friend,** I want **to see which events my friends are attending** so that **I can coordinate and join them.**
+
+ 6. As a **user,** I want **the ability to book tickets directly from the app** so that **I don’t have to navigate multiple websites.** 
+
+7. As a **user,** I want **to receive instant notifications if an event I’ve booked is canceled or rescheduled** so that **I can adjust my plans accordingly.**
+
+8. As a **casual event-goer,** I want **to save events to my favorites list** so that **I can come back to book them later.**
+
+9. As a **busy person,** I want **the app to integrate with my calendar** so that **I can automatically add booked events and avoid scheduling conflicts.**
+
+10. As a **price-conscious attendee,** I want **to see a clear breakdown of ticket costs, including any hidden fees,** so that **I can make informed decisions before booking.**
+
 
 ## Activity Diagrams
 
