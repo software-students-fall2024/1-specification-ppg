@@ -40,7 +40,7 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Our app allows users to easily discover, book, and manage events happening around them, providing personalized recommendations and real-time updates to enhance their social experiences.
 
 ## User Requirements
 
