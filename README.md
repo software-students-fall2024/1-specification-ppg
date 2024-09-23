@@ -6,7 +6,7 @@ A little exercise to get started with the specification phase of the software de
 
 Reese Burns: https://github.com/reeseburns
 
-Dasha Miroshnichenko: 
+Dasha Miroshnichenko: https://github.com/dm5198
 
 Emily Huang: https://github.com/emilyjhuang
 
