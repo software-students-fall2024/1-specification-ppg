@@ -1,7 +1,5 @@
 # Specification Phase Exercise
 
-A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
-
 ## TEAM MEMBERS
 
 Reese Burns: https://github.com/reeseburns
