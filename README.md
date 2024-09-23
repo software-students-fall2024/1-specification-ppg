@@ -2,7 +2,7 @@
 
 A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
 
-## Team members
+## TEAM MEMBERS
 
 Reese Burns: https://github.com/reeseburns
 
@@ -10,7 +10,7 @@ Dasha Miroshnichenko: https://github.com/dm5198
 
 Emily Huang: https://github.com/emilyjhuang
 
-## Stakeholders
+## STAKEHOLDERS
 
 **Stakeholder Interviewed: Ananya Gupta**
 
@@ -36,11 +36,11 @@ Emily Huang: https://github.com/emilyjhuang
 - Lack of real-time updates on event availability or updates regarding any change in event location/time
 - Not having been updated about event cancelleations/changes or if the event has stopped accepting people 
 
-## Product Vision Statement
+## PRODUCT VISION STATEMENT
 
 Our app allows users to easily discover, book, and manage events happening around them, providing personalized recommendations and real-time updates to enhance their social experiences.
 
-## User Requirements
+## USER REQUIREMENTS
 
 1. As a **social event enthusiast**, I want **to discover events happening near me** so that **I can find new and exciting activities to attend.** 
 
