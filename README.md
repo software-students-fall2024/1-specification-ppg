@@ -36,7 +36,7 @@ Emily Huang: https://github.com/emilyjhuang
 
 ## PRODUCT VISION STATEMENT
 
-Our app allows users to easily discover, book, and manage events happening around them, providing personalized recommendations and real-time updates to enhance their social experiences.
+Our app ***NYSee*** allows users to easily see and explore New York City by discovering, booking, and managing events happening around them, providing personalized recommendations and real-time updates to enhance their social experiences.
 
 ## USER REQUIREMENTS
 
