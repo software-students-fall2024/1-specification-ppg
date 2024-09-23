@@ -4,13 +4,11 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Reese Burns:
+Reese Burns: https://github.com/reeseburns
 
 Dasha Miroshnichenko: 
 
 Emily Huang: https://github.com/emilyjhuang
-
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
 
 ## Stakeholders
 
