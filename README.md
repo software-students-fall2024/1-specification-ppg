@@ -66,8 +66,12 @@ Our app allows users to easily discover, book, and manage events happening aroun
 
 
 ## Activity Diagrams
+**UML Activity Diagram 1**
+![SWE UML 1](https://github.com/user-attachments/assets/3d59c1c9-fafa-441a-ad21-c4eb62a2c97d)
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+**UML Activity Diagram 2**
+![SWE UML 2](https://github.com/user-attachments/assets/37e40bc2-46ba-4d6c-820a-ddcb90a10e44)
+
 
 ## Clickable Prototype
 
