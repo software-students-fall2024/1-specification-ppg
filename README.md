@@ -63,7 +63,7 @@ Our app allows users to easily discover, book, and manage events happening aroun
 10. As a **price-conscious attendee,** I want **to see a clear breakdown of ticket costs, including any hidden fees,** so that **I can make informed decisions before booking.**
 
 
-## Activity Diagrams
+## DIAGRAMS
 **UML Activity Diagram 1**
 ![SWE project 1-5](https://github.com/user-attachments/assets/6a6f6549-ac1c-4bc0-b152-6b5e31bd3d94)
 
@@ -72,6 +72,9 @@ Our app allows users to easily discover, book, and manage events happening aroun
 ![SWE project 1-6](https://github.com/user-attachments/assets/cb7a90fd-abb7-4688-a9a7-e0cdcc935dfc)
 
 
-## Clickable Prototype
+## WIREFRAME DIAGRAMS
+https://www.figma.com/design/EsxsMzmKLeaLUg4NRm0Oh9/Project-1?node-id=53-593&node-type=canvas&t=LO5J3wxsuakDCDuU-0
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+
+## CLICKABLE PROTOTYPE
+https://www.figma.com/design/EsxsMzmKLeaLUg4NRm0Oh9/Project-1?node-id=0-1&node-type=canvas&t=LJaO02ZtheyTWm3j-0
