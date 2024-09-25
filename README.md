@@ -57,4 +57,4 @@ Our app ***NYSee*** allows users to easily see and explore New York City by disc
 [Link to Wireframe Diagrams](https://www.figma.com/design/EsxsMzmKLeaLUg4NRm0Oh9/Project-1?node-id=53-593&node-type=canvas&t=LO5J3wxsuakDCDuU-0)
 
 ## CLICKABLE PROTOTYPE
-[Link to Clickable Prototype](https://www.figma.com/proto/EsxsMzmKLeaLUg4NRm0Oh9/Project-1?node-id=0-1&t=DL1xh5uygaVfQhzj-1)
+[Link to Clickable Prototype](https://www.figma.com/proto/EsxsMzmKLeaLUg4NRm0Oh9/Project-1?node-id=215-349&t=UmbmQBKrY9FAUNli-1)
