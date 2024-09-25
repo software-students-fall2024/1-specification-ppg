@@ -48,10 +48,11 @@ Our app ***NYSee*** allows users to easily see and explore New York City by disc
 
 ## DIAGRAMS
 **UML Activity Diagram 1**
-![SWE project 1-5](https://github.com/user-attachments/assets/6a6f6549-ac1c-4bc0-b152-6b5e31bd3d94)
+![UML Diagram for User Story 2](https://github.com/user-attachments/assets/6a6f6549-ac1c-4bc0-b152-6b5e31bd3d94)
 
 **UML Activity Diagram 2**
-![SWE project 1-6](https://github.com/user-attachments/assets/cb7a90fd-abb7-4688-a9a7-e0cdcc935dfc)
+![UML Diagram 2](https://github.com/user-attachments/assets/cae5a5f0-7ab5-4bed-ae4d-18ca751fc116)
+
 
 ## WIREFRAME DIAGRAMS
 [Link to Wireframe Diagrams](https://www.figma.com/design/EsxsMzmKLeaLUg4NRm0Oh9/Project-1?node-id=53-593&node-type=canvas&t=LO5J3wxsuakDCDuU-0)
