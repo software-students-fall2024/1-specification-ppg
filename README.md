@@ -52,13 +52,15 @@ Our app ***NYSee*** allows users to easily see and explore New York City by disc
 **UML Activity Diagram 1**
 
 For User Story: As a ***busy professional,*** I want **to filter events by date and category** so that ***I can easily find events that fit my schedule and interests.***
-![UML 1](https://github.com/user-attachments/assets/5e7bb797-bc7b-4925-a24d-a5419d62088e)
+![UML 1](https://github.com/user-attachments/assets/98392f88-c7c4-4523-9266-5f45d2c24e2a)
+
 
 
 **UML Activity Diagram 2**
 
 For User Story: As a ***price-conscious attendee,*** I want **to see a clear breakdown of ticket costs, including any hidden fees,** so that ***I can make informed decisions before booking.***
-![UML 2](https://github.com/user-attachments/assets/bbc799e2-8da9-4135-b80b-3b2876c5d1e3)
+![UML 2](https://github.com/user-attachments/assets/a26409ba-2cdc-4a3e-87a7-aeeffa7bc4a1)
+
 
 
 ## WIREFRAME DIAGRAMS
