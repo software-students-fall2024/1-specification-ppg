@@ -1,9 +1,11 @@
 # Specification Phase Exercise
 
 ## TEAM MEMBERS
-- Reese Burns: https://github.com/reeseburns
-- Dasha Miroshnichenko: https://github.com/dm5198
-- Emily Huang: https://github.com/emilyjhuang
+
+Links to team members' Github profiles:
+- [Reese Burns](https://github.com/reeseburns)
+- [Dasha Miroshnichenko](https://github.com/dm5198)
+- [Emily Huang](https://github.com/emilyjhuang)
 
 ## STAKEHOLDERS
 **Stakeholder Interviewed: Ananya Gupta**
@@ -35,10 +37,10 @@ Our app ***NYSee*** allows users to easily see and explore New York City by disc
 
 ## USER REQUIREMENTS
 1. As a ***social event enthusiast***, I want ***to discover events happening near me*** so that ***I can find new and exciting activities to attend.*** 
-2. As a ***busy professional,*** I want ***to filter events by date and category** so that ***I can easily find events that fit my schedule and interests.***
+2. As a ***busy professional,*** I want **to filter events by date and category** so that ***I can easily find events that fit my schedule and interests.***
 3. As a ***frequent event-goer,*** I want ***to see real-time availability for tickets or spots*** so that ***I can know if there’s still room for me to attend.***
 4. As an ***excited event goer,*** I want ***to receive notifications about upcoming events*** so that ***I don’t miss events I’m interested in.*** 
-5. As a ***friend,*** I want ***to see which events my friends are attending*** so that ***I can coordinate and join them.**
+5. As a ***friend,*** I want ***to see which events my friends are attending*** so that **I can coordinate and join them.**
 6. As a ***user,*** I want ***the ability to book tickets directly from the app*** so that ***I don’t have to navigate multiple websites.*** 
 7. As a ***user,*** I want ***to receive instant notifications if an event I’ve booked is canceled or rescheduled*** so that ***I can adjust my plans accordingly.***
 8. As a ***casual event-goer,*** I want **to save events to my favorites list** so that ***I can come back to book them later.***
@@ -48,10 +50,15 @@ Our app ***NYSee*** allows users to easily see and explore New York City by disc
 
 ## DIAGRAMS
 **UML Activity Diagram 1**
-![UML Diagram for User Story 2](https://github.com/user-attachments/assets/6a6f6549-ac1c-4bc0-b152-6b5e31bd3d94)
+
+For User Story: As a ***busy professional,*** I want **to filter events by date and category** so that ***I can easily find events that fit my schedule and interests.***
+![UML 1](https://github.com/user-attachments/assets/5e7bb797-bc7b-4925-a24d-a5419d62088e)
+
 
 **UML Activity Diagram 2**
-![UML Diagram 2](https://github.com/user-attachments/assets/cae5a5f0-7ab5-4bed-ae4d-18ca751fc116)
+
+For User Story: As a ***price-conscious attendee,*** I want **to see a clear breakdown of ticket costs, including any hidden fees,** so that ***I can make informed decisions before booking.***
+![UML 2](https://github.com/user-attachments/assets/bbc799e2-8da9-4135-b80b-3b2876c5d1e3)
 
 
 ## WIREFRAME DIAGRAMS
